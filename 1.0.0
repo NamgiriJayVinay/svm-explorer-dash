@@ -1,0 +1,8 @@
+Collecting dash
+  Using cached https://files.pythonhosted.org/packages/1d/d1/191ad32bd9e6d10b2fc0f5d31e9e6a85fdb2642088658f75817d67bdeaea/dash-1.14.0.tar.gz
+Collecting Flask>=1.0.2 (from dash)
+  Using cached https://files.pythonhosted.org/packages/f2/28/2a03252dfb9ebf377f40fba6a7841b47083260bf8bd8e737b0c6952df83f/Flask-1.1.2-py2.py3-none-any.whl
+Collecting flask-compress (from dash)
+  Using cached https://files.pythonhosted.org/packages/a0/96/cd684c1ffe97b513303b5bfd4bbfb4114c5f4a5ea8a737af6fd813273df8/Flask-Compress-1.5.0.tar.gz
+Collecting plotly (from dash)
+  Using cached https://files.pythonhosted.org/packages/bf/5f/47ab0d9d843c5be0f5c5bd891736a4c84fa45c3b0a0ddb6b6df7c098c66f/plotly-4.9.0-py2.py3-none-any.whl
